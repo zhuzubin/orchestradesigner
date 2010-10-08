@@ -29,15 +29,21 @@ New Function, real-time cooperative modeling:
 History:
 
 April 20, 2010 Orchestra Designer 3.0.3 Version released:
+
 Updates:
+
 The function of Collaborative modeling is added in this version. When multiple users operate with the same process model, the Modification made by one user will be showed on all the users’ interfaces and all the models change synchronously. Moreover, this version adds the BPEL Generating Function. (It is supplied by BULL Corporation from France)
 -------------------------------------------------------------
 January 7, 2010 Orchestra Designer 3.0.2 Version released:
+
 Updates:
+
 The users can download BPEL files in this version. This version also can realize the switch with JUDDI server.
 -------------------------------------------------------------
 November 26, 2009 Orchestra Designer 3.0.1 Version released:
+
 Updates:
+
 This version is server version. Multiple users can share the same model file, because all the projects, folders and files are stored on the directory of the server.
 -------------------------------------------------------------
 July 20, 2009 Orchestra Designer 2.8 Version released
