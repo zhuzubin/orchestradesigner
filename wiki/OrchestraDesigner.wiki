@@ -12,19 +12,27 @@ Version 3.2 Updates(into three parts):
 
 * Views：
  Add the function of login and register
+
  Add the function of maximize the Figure Canvas while double-clicking the tag
+
  Add the Cooperate Project User List
 
-Display/Hide the function tag by Menu-Option-Views
+ Display/Hide the function tag by Menu-Option-Views
 
-Modeling：
-	Add rollback function
-	Add redo function
-New Function, real-time cooperative modeling:
-	Token Mechanism
-	General Cooperative Mode
-	Sign Mode
-	Compare Mode
+*Modeling：
+ Add rollback function
+
+ Add redo function
+
+*New Function, real-time cooperative modeling:
+
+ Token Mechanism
+
+ General Cooperative Mode
+
+ Sign Mode
+
+ Compare Mode
 
 ------------------------------------------------------------	
 
