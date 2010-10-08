@@ -12,7 +12,7 @@ Version 3.2 Updates(into three parts):
 
 Views：
 	Add the function of login and register
-        Add the function of maximize the Figure Canvas while double-clicking the tag
+Add the function of maximize the Figure Canvas while double-clicking the tag
 	Add the Cooperate Project User List
 	Display/Hide the function tag by Menu-Option-Views
 Modeling：
@@ -23,7 +23,7 @@ New Function, real-time cooperative modeling:
 	General Cooperative Mode
 	Sign Mode
 	Compare Mode
--------------------------	
+-------------------------------------------------------------	
 History:
 
 April 20, 2010 Orchestra Designer 3.0.3 Version released:
