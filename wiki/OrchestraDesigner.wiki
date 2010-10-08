@@ -50,13 +50,13 @@ July 20, 2009 Orchestra Designer 2.8 Version released
 
 Updates：
 
-*Reconstructed the MVC framework
-*Renamed the projects, folders and files
-*Added the Select All, Copy and Paste operation for the figures
-*Optimized the transformation from flow diagram to BPEL
-*Complimented the attributes of the figures
-*Added association between diagram files and BPEL files
-*Discriminated BPEL elements and attributes by color
+#Reconstructed the MVC framework
+#Renamed the projects, folders and files
+#Added the Select All, Copy and Paste operation for the figures
+#Optimized the transformation from flow diagram to BPEL
+#Complimented the attributes of the figures
+#Added association between diagram files and BPEL files
+#Discriminated BPEL elements and attributes by color
 -------------------------------------------------------------
 July 1 ,2009 Orchestra Designer 2.4 Version released
 
