@@ -12,7 +12,7 @@ Version 3.2 Updates(into three parts):
 
 Views：
 	Add the function of login and register
-        Add the function of maximize the Figure Canvas while double-clicking the tag
+ Add the function of maximize the Figure Canvas while double-clicking the tag
 	Add the Cooperate Project User List
 	Display/Hide the function tag by Menu-Option-Views
 Modeling：
@@ -58,19 +58,26 @@ Updates：
 
 *Optimized the transformation from flow diagram to BPEL
 
-#Complimented the attributes of the figures
-#Added association between diagram files and BPEL files
-#Discriminated BPEL elements and attributes by color
+*Complimented the attributes of the figures
+
+*Added association between diagram files and BPEL files
+
+*Discriminated BPEL elements and attributes by color
 -------------------------------------------------------------
 July 1 ,2009 Orchestra Designer 2.4 Version released
 
 Updates：
  
 *Added the construction and revision of projects folders and files
+
 *Enabled instant renewing of the Resource Tree
+
 *Added the trailing, moving, delete and rename operation for the figures
+
 *Enabled the transformation from flow diagram to BPEL
+
 *Established the BPEL view
+
 *Resolved problems of failing to run locally
 -------------------------------------------------------------
 June 18, 2009 Orchestra Designer 2.0 Version released
@@ -78,10 +85,15 @@ June 18, 2009 Orchestra Designer 2.0 Version released
 Updates：
  
 *redesigned the interface, changed the overall style, added tool bar, engineering view and UDDI view
+
 *Supported the diagram view of the process and the XML view.
+
 *Supported user to create new process, new folder and new process file.
+
 *Supported filling the canvas with the grid while modeling.
+
 *Replaced the BPMN figure by three different levels figures: Basic, Business and BPEL.
+
 *Rebuilt the program structure base on Cairngorm MVC
 -------------------------------------------------------------
 May 27, 2009 Orchestra Designer 1.0 Version released
