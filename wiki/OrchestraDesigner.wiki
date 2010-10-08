@@ -6,9 +6,7 @@
 The objective of Orchestra Designer is to build an online workflow designer thatgenerates BPEL processes. Those processes can be accepted by Orchestra, which is an open source BPEL engine released on OW2 platform. The designer is developed on Flex, targeted to non-technical people and provides a more business-oriented functional view of the process than pure BPEL view. The project developers of Orchestra Designer are all from the Institute of Advanced Computing Technology of BeiHang University.
 
 
-= Details =
-
-Version 3.2 Updates(into three parts):
+=Version 3.2 Updates(into three parts):=
 
 * Views：
  Add the function of login and register
@@ -36,7 +34,7 @@ Version 3.2 Updates(into three parts):
 
 ------------------------------------------------------------	
 
-History:
+=History:=
 
 April 20, 2010 Orchestra Designer 3.0.3 Version released:
 
